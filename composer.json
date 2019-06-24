@@ -1,7 +1,7 @@
 {
   "name": "linkaisi/kernel",
   "description": "LKS-kernel",
-  "keywords": ["php",'kernel',"extension"],
+  "keywords": ["php","kernel","extension"],
   "type": "lks-kernel",
   "license": "BSD-3-Clause",
   "authors": [
